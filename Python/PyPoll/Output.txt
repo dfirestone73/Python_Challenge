@@ -1,0 +1,11 @@
+Election Results 
+ ------------------------ 
+ Vote Count: {voteCount} 
+ ------------------------ 
+ Khan: {KhanPercent} ({KhanCount}) 
+ Correy: {CorreyPercent} ({CorreyCount}) 
+ Li: {LiPercent} ({LiCount}) 
+ O'Tooley: {OTooleyPercent} ({OTooleyCount}) 
+ ------------------------ 
+ Winner: {Winner} 
+ ------------------------

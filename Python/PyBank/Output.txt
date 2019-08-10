@@ -1,0 +1,7 @@
+Financial Analysis 
+ -------------------------------- 
+ Total Months: {monthCount} 
+ Total: ${totalCost} 
+ Average Change: ${avg} 
+ Greatest Increase in Profits: {m1} (${maxProfit}) 
+ Greatest Decrease in Profits: {m2} (${minProfit})
