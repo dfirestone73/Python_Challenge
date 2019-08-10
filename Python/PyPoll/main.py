@@ -64,4 +64,4 @@ with open (electionCSV,newline="") as csvfile:
     print('------------------------')
 
     with open('Output.txt',"w") as textFile:
-        textFile.write("Election Results \n ------------------------ \n Vote Count: {voteCount} \n ------------------------ \n Khan: {KhanPercent} ({KhanCount}) \n Correy: {CorreyPercent} ({CorreyCount}) \n Li: {LiPercent} ({LiCount}) \n O'Tooley: {OTooleyPercent} ({OTooleyCount}) \n ------------------------ \n Winner: {Winner} \n ------------------------")
+        textFile.write(f"Election Results \n ------------------------ \n Vote Count: {voteCount} \n ------------------------ \n Khan: {KhanPercent} ({KhanCount}) \n Correy: {CorreyPercent} ({CorreyCount}) \n Li: {LiPercent} ({LiCount}) \n O'Tooley: {OTooleyPercent} ({OTooleyCount}) \n ------------------------ \n Winner: {Winner} \n ------------------------")

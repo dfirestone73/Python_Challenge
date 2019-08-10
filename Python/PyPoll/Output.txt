@@ -1,11 +1,11 @@
 Election Results 
  ------------------------ 
- Vote Count: {voteCount} 
+ Vote Count: 3521001 
  ------------------------ 
- Khan: {KhanPercent} ({KhanCount}) 
- Correy: {CorreyPercent} ({CorreyCount}) 
- Li: {LiPercent} ({LiCount}) 
- O'Tooley: {OTooleyPercent} ({OTooleyCount}) 
+ Khan: 63.0% (2218231) 
+ Correy: 20.0% (704200) 
+ Li: 14.0% (492940) 
+ O'Tooley: 3.0% (105630) 
  ------------------------ 
- Winner: {Winner} 
+ Winner: Khan 
  ------------------------

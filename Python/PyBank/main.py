@@ -89,7 +89,7 @@ with open (budgetCSV,newline="") as csvfile:
 
 
     with open('Output.txt',"w") as textFile:
-        textFile.write('Financial Analysis \n -------------------------------- \n Total Months: {monthCount} \n Total: ${totalCost} \n Average Change: ${avg} \n Greatest Increase in Profits: {m1} (${maxProfit}) \n Greatest Decrease in Profits: {m2} (${minProfit})')
+        textFile.write(f'Financial Analysis \n -------------------------------- \n Total Months: {monthCount} \n Total: ${totalCost} \n Average Change: ${avg} \n Greatest Increase in Profits: {m1} (${maxProfit}) \n Greatest Decrease in Profits: {m2} (${minProfit})')
 
     
     
